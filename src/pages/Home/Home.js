@@ -4,6 +4,11 @@ import styles from './home.css';
 
 import Icon from './../../assets/images/icon.png';
 
+/* 
+    This is just a sample introduction file.
+    You can clear the code written in this file and start writing your own code.
+*/
+
 export class Home extends Component {
     render() {
         return (
